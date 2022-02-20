@@ -1,6 +1,8 @@
+/* Example 2.2b: Controlling LEDs by a photoresistor */
+
 int photo = A1; //specifies the analog pin A1 to read the photoresistor
 int photoValue; //initialize the variable to read the photoresistor value
-int led= 10;
+int led = 10;
 
 void setup(){
   pinMode(led, OUTPUT);
