@@ -1,3 +1,6 @@
+/* Example 2.1a: 
+Control lights with digitalWrite(). */
+
 int ledPin= 13;
 
 void setup(){
