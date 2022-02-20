@@ -11,7 +11,8 @@ void setup() {
   pinMode(led, OUTPUT);
   Serial.begin(9600);
 }
-  void loop() {
+  
+void loop() {
   buttonState = digitalRead(button); // digitalRead function helps to read / check the state of the button, return false if pressed, otherwise return about true
   digitalWrite(led, buttonState);
 }
