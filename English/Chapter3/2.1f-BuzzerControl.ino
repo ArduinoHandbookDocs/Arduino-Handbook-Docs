@@ -1,3 +1,6 @@
+/* Example 2.1f: Using analogWrite() to 
+control how loud or quiet the buzzer sounds */
+
 int photo= A1; //specifies the analog pin A1 to read the photoresistor
 int photoValue; //initialize the variable to read the photoresistor value
 int led= 6; // pin 6 can use analogWrite() function
