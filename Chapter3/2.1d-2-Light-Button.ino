@@ -1,3 +1,7 @@
+/* 
+Example 2.1d: Read the signal from the push button and then turn on-off the corresponding light
+Method 2: use pinMode(INPUT_PULLUP) to read the push button value.
+*/
 int button = 12; //button connected to pin 12
 boolean buttonState = false; //set the button state test variable to 1, equivalent to the initial state of the button (not yet pressed)
 int led = 13;
