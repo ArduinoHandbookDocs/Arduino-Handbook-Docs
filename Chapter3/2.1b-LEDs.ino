@@ -1,3 +1,5 @@
+/* Example 2.1b: Using digitalWrite() to turn on LEDs from pins 11, 12 and 13 */
+
 int greenLed = 11; //green light
 int yellowLed = 12; //yellow light
 int redLed = 13; // red light
