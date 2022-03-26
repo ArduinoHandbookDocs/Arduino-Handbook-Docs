@@ -1,7 +1,6 @@
 # Arduino-Handbook-Docs
 Welcome to Arduino Handbook Docs, a repository for source code made as demonstration for the Arduino Handbook. Arduino Handbook Docs is open to everyone for educational purposes. 
 
-[tóm tắt các source code của handbook, cách tải về các thư viện, legal remarks các thứ]
 ## Table of contents:
 1. Chapter 1
   * Hello World example program
@@ -15,19 +14,15 @@ Welcome to Arduino Handbook Docs, a repository for source code made as demonstra
   * 2.1g-Photoresistor
   * 2.1h-Rheostat-LED-Brightness
   * 2.1j-Random-Light-Control
-  * 2.1k-Lights-On-Gradually
-<br/>
+  * 2.1k-Lights-On-Gradually <br/>
   * 2.2a-IF-condition
   * 2.2b-LED-Photoresistor
-  * 2.2d-LED-Brightness-Button
- <br/>
+  * 2.2d-LED-Brightness-Button <br/>
   * 2.3a-5LEDs-for
   * 2.3a-5LEDs
   * 2.3c-5LEDs-1-5
-  * 2.3d-5Presses-LightUp
- <br/>
-  * 2.4a-TrafficLights
- <br/>
+  * 2.3d-5Presses-LightUp <br/>
+  * 2.4a-TrafficLights <br/>
   * 2.5-SerialMonitor
   * 2.5a-SerialMonitor
   * 2.5b-LED-SerialMonitor
@@ -36,8 +31,7 @@ Welcome to Arduino Handbook Docs, a repository for source code made as demonstra
   * 2.5e-Potentiometer-Servo
   * 2.5f-DHT11-SerialMonitor
   * 2.5g-HelloWorld-LCD
-  * 2.5h-HelloWorld-LCD-I2C
- <br/>
+  * 2.5h-HelloWorld-LCD-I2C <br/>
   * ACompleteProgram
   * Example
 3. Chapter 4
